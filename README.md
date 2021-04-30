@@ -2,7 +2,7 @@
 
 We'll be using the same databases from previous exercises to create API endpoints. We'll also be doing some work on different branches to help us practice git.
 
-## Round 1
+<!-- ## Round 1
 
 For this round, you can stay here on the `main` branch
 
@@ -12,13 +12,13 @@ For this round, you can stay here on the `main` branch
 4. Create a POST endpoint that allows you to create a Comment
 5. Create a PUT endpoint that allows you to update a User
 6. Create a PUT endpoint that allows you to update a Comment
-7. Create a GET endpoint that allows you to retrieve a User's Comments
+7. Create a GET endpoint that allows you to retrieve a User's Comments -->
 
 ## Round 2
 
 For this round, switch to the `apis/classroom` branch
 
-1. Create an endpoint to retrieve all Classes
+<!-- 1. Create an endpoint to retrieve all Classes -->
 2. Create an endpoint to retrieve all Students
 3. Create an endpoint to retrieve all Teachers
 4. Create an endpoint to retrieve all Students given a specific Class ID

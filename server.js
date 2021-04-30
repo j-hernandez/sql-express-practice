@@ -6,6 +6,23 @@ const app = express();
 const PORT = 3000;
 
 app.use(bodyParser.json());
+app.use(express.json());
+app.use(express.urlencoded());
+
+app.get('/classes', async(req, res) => {
+  const classes = await db.any("SELECT * from classes").then((classes) => {
+    return classes;
+  })
+  res.send(classes);
+})
+
+
+
+
+
+
+
+
 
 
 
