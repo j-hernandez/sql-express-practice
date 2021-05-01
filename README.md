@@ -19,9 +19,9 @@ For this round, you can stay here on the `main` branch
 For this round, switch to the `apis/classroom` branch
 
 <!-- 1. Create an endpoint to retrieve all Classes -->
-2. Create an endpoint to retrieve all Students
-3. Create an endpoint to retrieve all Teachers
-4. Create an endpoint to retrieve all Students given a specific Class ID
+<!-- 2. Create an endpoint to retrieve all Students -->
+<!-- 3. Create an endpoint to retrieve all Teachers -->
+<!-- 4. Create an endpoint to retrieve all Students given a specific Class ID -->
 5. Create an endpoint to retrieve all Classes given a specific Teacher ID
 6. Create an endpoint to retrieve a single Class given a specific ID
 7. Create an endpoint to retrieve a single Student given a specific ID
